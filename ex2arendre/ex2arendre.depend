@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616682717 source:d:\c++\ex2arendre\main.c
+	<stdio.h>
+	<math.h>
+
