@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616680477 source:d:\c++\ex1 a rendre\main.c
+	<stdio.h>
+	<string.h>
+
